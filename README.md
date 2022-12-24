@@ -1,5 +1,5 @@
 ## • What's New ?
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Skystapper/pseudo-eva)
 - ⟴ URL Shortener Added
 - ⟴ Self Delete Added (Auto delete)
 - ⟴ Filter On Off Option Added
